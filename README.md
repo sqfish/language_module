@@ -13,3 +13,10 @@
 ####Future Functionality
 * Aditional supported languages (currently Spanish, German, and French are supported)
 * Only basic holiday words are accepted currently
+
+####Contributers
+* Taylor Miley [@taylormiley](https://github.com/taylormiley)
+* Sally Fisher [@sqfish](https://github.com/sqfish)
+* Deric Bunch [@ddbunc2](https://github.com/ddbunc2)
+
+Created as part of a project for Cohort 10 at [@nashville-software-school](https://github.com/nashville-software-school).
